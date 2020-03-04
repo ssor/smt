@@ -1,2 +1,0 @@
-# smt
-Begin app
